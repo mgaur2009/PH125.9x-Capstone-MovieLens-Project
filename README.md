@@ -6,4 +6,8 @@ This repository contains the following Files for the MovieLens Project of the Ca
 
 PH125.9x Capstone MovieLens Project Report -> Report in .Rmd format
 
-PH125.9x Capstone MovieLens Project R Script->
+
+
+PH125.9x Capstone MovieLens Project R Script-> R script that genreates the code and performs data analysis, building of machine learning model and calculates RMSE
+
+
