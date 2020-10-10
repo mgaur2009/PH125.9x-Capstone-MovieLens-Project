@@ -10,6 +10,6 @@ PH125.9x Capstone MovieLens Project Report -> Report in .Rmd format
 
 PH125.9x-Capstone-MovieLens-Project-> Report in PDF format
 
-PH125.9x Capstone MovieLens Project R Script-> R script that genreates the code and performs data analysis, building of machine learning model and calculates RMSE
+PH125.9x Capstone MovieLens Project R Script-> R script that genreates the code that imports the data,performs data analysis, builds machine learning model and calculates RMSE
 
 
